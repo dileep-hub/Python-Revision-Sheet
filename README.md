@@ -1,2 +1,2 @@
 # Python-Revision-For-Beginners
-Easy to glance and revise... for interviews
+Easy to glance and revise... for interviews.
